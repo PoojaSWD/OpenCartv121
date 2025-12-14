@@ -1,0 +1,58 @@
+16:21: 58. 533 [main] INFO  testCases.TC002_LoginTest - display My account header
+16:21: 59. 294 [main] INFO  testCases.TC002_LoginTest - logout from account
+16:21: 59. 740 [main] INFO  testCases.TC002_LoginTest - ****finished TC002_LoginTest****
+16:24: 02. 613 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\test-output\testng-failed.xml"
+16:24: 02. 906 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\test-output\testng-failed.xml
+
+16:24: 05. 974 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Strating TC001_AccountRegistrationTest****
+16:24: 06. 114 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+16:24: 06. 637 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link
+16:24: 06. 639 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:24: 07. 215 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+16:24: 08. 416 [main] INFO  testCases.TC001_AccountRegistrationTest - ***finished TC001_AccountRegistrationTest***
+15:50: 04. 981 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\grouping.xml"
+15:50: 05. 399 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\grouping.xml
+
+15:50: 12. 755 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Strating TC001_AccountRegistrationTest****
+15:50: 12. 888 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+15:50: 13. 846 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link
+15:50: 13. 849 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:50: 15. 788 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+15:50: 15. 828 [main] INFO  testCases.TC001_AccountRegistrationTest - ***finished TC001_AccountRegistrationTest***
+15:50: 17. 954 [main] INFO  testCases.TC002_LoginTest - ****starting TC002_LoginTest****
+15:50: 17. 955 [main] INFO  testCases.TC002_LoginTest - Clicked on my account link
+15:50: 18. 074 [main] INFO  testCases.TC002_LoginTest - Clicked on my login link
+15:50: 18. 388 [main] INFO  testCases.TC002_LoginTest - filled with username
+15:50: 18. 582 [main] INFO  testCases.TC002_LoginTest - filled with password
+15:50: 18. 662 [main] INFO  testCases.TC002_LoginTest - cliked login button
+15:50: 19. 656 [main] INFO  testCases.TC002_LoginTest - display My account header
+15:50: 19. 748 [main] INFO  testCases.TC002_LoginTest - logout from account
+15:50: 20. 333 [main] INFO  testCases.TC002_LoginTest - ****finished TC002_LoginTest****
+15:51: 11. 581 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\grouping.xml"
+15:51: 11. 938 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\grouping.xml
+
+15:51: 16. 246 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Strating TC001_AccountRegistrationTest****
+15:51: 16. 393 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+15:51: 16. 912 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link
+15:51: 16. 914 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:51: 18. 632 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+15:51: 18. 702 [main] INFO  testCases.TC001_AccountRegistrationTest - ***finished TC001_AccountRegistrationTest***
+15:51: 21. 233 [main] INFO  testCases.TC002_LoginTest - ****starting TC002_LoginTest****
+15:51: 21. 233 [main] INFO  testCases.TC002_LoginTest - Clicked on my account link
+15:51: 21. 335 [main] INFO  testCases.TC002_LoginTest - Clicked on my login link
+15:51: 21. 693 [main] INFO  testCases.TC002_LoginTest - filled with username
+15:51: 21. 803 [main] INFO  testCases.TC002_LoginTest - filled with password
+15:51: 21. 873 [main] INFO  testCases.TC002_LoginTest - cliked login button
+15:51: 21. 984 [main] INFO  testCases.TC002_LoginTest - display My account header
+15:51: 22. 868 [main] INFO  testCases.TC002_LoginTest - logout from account
+15:51: 23. 329 [main] INFO  testCases.TC002_LoginTest - ****finished TC002_LoginTest****
+15:52: 03. 769 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\grouping.xml"
+15:52: 04. 296 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\grouping.xml
+
+15:52: 07. 647 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Strating TC001_AccountRegistrationTest****
+15:52: 07. 766 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+15:52: 08. 514 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link
