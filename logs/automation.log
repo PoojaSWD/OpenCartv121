@@ -1,36 +1,66 @@
-14:02: 39. 215 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - cliked login button
-14:02: 40. 493 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - display My account header
-14:02: 40. 561 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - logout from account
-14:02: 41. 097 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****finished TC002_LoginTest****
-14:34: 57. 812 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
-14:35: 01. 732 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Strating TC001_AccountRegistrationTest****
-14:35: 02. 030 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
-14:35: 02. 505 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link
-14:35: 02. 513 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
-14:35: 08. 931 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
-14:35: 08. 996 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***finished TC001_AccountRegistrationTest***
-14:35: 11. 769 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****starting TC002_LoginTest****
-14:35: 11. 771 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Clicked on my account link
-14:35: 11. 914 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Clicked on my login link
-14:35: 12. 284 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - filled with username
-14:35: 12. 453 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - filled with password
-14:35: 12. 544 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - cliked login button
-14:35: 13. 472 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - display My account header
-14:35: 13. 520 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - logout from account
-14:35: 14. 025 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****finished TC002_LoginTest****
-14:45: 03. 657 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
-14:45: 12. 558 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Strating TC001_AccountRegistrationTest****
-14:45: 12. 759 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
-14:45: 15. 806 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link
-14:45: 15. 813 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
-14:45: 18. 133 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
-14:45: 18. 183 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***finished TC001_AccountRegistrationTest***
-14:45: 26. 675 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****starting TC002_LoginTest****
-14:45: 26. 675 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Clicked on my account link
-14:45: 26. 887 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Clicked on my login link
-14:45: 27. 298 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - filled with username
-14:45: 27. 428 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - filled with password
-14:45: 27. 546 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - cliked login button
-14:45: 28. 488 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - display My account header
-14:45: 28. 587 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - logout from account
-14:45: 29. 140 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****finished TC002_LoginTest****
+16:24: 19. 735 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@51e8e6e6: 18 ms
+16:24: 19. 756 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@71984c3: 13 ms
+16:24: 19. 765 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1de5f0ef: 8 ms
+16:24: 19. 774 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@51850751: 9 ms
+16:24: 19. 774 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3ce3db41: 0 ms
+16:25: 27. 761 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+16:25: 28. 187 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+16:25: 34. 924 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - ******Starting TC005_AddToCartPage******
+16:28: 56. 354 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+16:28: 56. 777 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+16:28: 59. 995 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - ******Starting TC005_AddToCartPage******
+16:29: 02. 535 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - **********FinishedTC005_AddToCartPage*********
+16:55: 44. 472 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+16:55: 44. 913 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+16:55: 48. 146 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - ******Starting TC005_AddToCartPage******
+17:16: 34. 365 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+17:16: 34. 847 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+17:16: 38. 456 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - ******Starting TC005_AddToCartPage******
+17:16: 40. 622 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - **********FinishedTC005_AddToCartPage*********
+17:17: 16. 069 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+17:17: 16. 519 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+17:17: 20. 206 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - ******Starting TC005_AddToCartPage******
+17:17: 22. 558 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - **********FinishedTC005_AddToCartPage*********
+17:20: 13. 391 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+17:20: 13. 852 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+17:20: 17. 543 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - ******Starting TC005_AddToCartPage******
+19:07: 38. 138 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+19:07: 38. 582 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+19:09: 31. 484 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+19:09: 31. 927 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+19:40: 09. 399 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+19:40: 09. 845 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+19:43: 39. 278 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+19:43: 39. 696 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+19:45: 17. 132 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+19:45: 17. 589 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+19:46: 31. 436 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+19:46: 31. 906 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+19:49: 48. 919 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+19:49: 49. 426 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+

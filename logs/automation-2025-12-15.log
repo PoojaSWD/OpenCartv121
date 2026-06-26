@@ -1,0 +1,48 @@
+19:47: 11. 488 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - display My account header
+19:47: 12. 288 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - logout from account
+19:47: 13. 024 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****finished TC002_LoginTest****
+19:49: 50. 056 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+19:49: 53. 738 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Strating TC001_AccountRegistrationTest****
+19:49: 53. 850 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+19:49: 54. 501 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link
+19:49: 54. 504 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+19:49: 56. 186 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+19:49: 56. 225 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***finished TC001_AccountRegistrationTest***
+19:49: 58. 419 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****starting TC002_LoginTest****
+19:49: 58. 420 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Clicked on my account link
+19:49: 58. 516 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Clicked on my login link
+19:49: 59. 007 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - filled with username
+19:49: 59. 110 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - filled with password
+19:49: 59. 177 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - cliked login button
+19:50: 00. 003 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - display My account header
+19:50: 00. 047 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - logout from account
+19:50: 00. 450 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****finished TC002_LoginTest****
+16:30: 23. 888 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+16:30: 24. 525 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+16:30: 31. 429 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest - *****starting TC004_SearchProductTest********
+16:31: 35. 523 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\AppData\Local\Temp\testng-eclipse-1874402070\testng-customsuite.xml"
+16:31: 35. 781 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31: 35. 786 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+16:31: 35. 788 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31: 35. 789 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31: 35. 789 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31: 35. 789 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31: 35. 790 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31: 35. 790 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31: 35. 795 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+16:31: 35. 807 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+16:31: 35. 809 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31: 35. 810 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:31: 35. 810 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31: 35. 810 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31: 35. 811 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31: 35. 811 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31: 35. 814 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31: 35. 814 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31: 35. 814 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31: 35. 815 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31: 35. 817 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31: 35. 817 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31: 35. 817 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.

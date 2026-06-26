@@ -11,7 +11,7 @@ public class Homepage extends BasePage {
 		super(driver);	
 	}
 
-
+//Account and Registration Page
 @FindBy(xpath="//span[normalize-space()='My Account']")
 WebElement lnkmyAccount;
 
@@ -21,6 +21,14 @@ WebElement lnkregister;
 //@FindBy(xpath="//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login']")
 @FindBy(linkText="Login")
 WebElement lnklogin;
+
+
+//Search Product page
+@FindBy(xpath="//button[@class='btn btn-default btn-lg']")  
+WebElement btnsearch;
+
+@FindBy(xpath="//input[@placeholder='Search']")  
+WebElement searchbox;
 
 public void clickMyAccount()
 {
@@ -36,4 +44,15 @@ public void clickLogin()
 {
 	lnklogin.click();
 }
+
+public SearchResultPage SearchForProduct(String productName)
+{
+	searchbox.sendKeys(productName);
+	btnsearch.click();
+	return new SearchResultPage(driver);
+}
+//public void clicksearch()
+//{
+//	btnsearch.click();
+//}
 }

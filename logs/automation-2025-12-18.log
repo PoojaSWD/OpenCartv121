@@ -1,0 +1,57 @@
+16:31: 35. 817 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31: 35. 832 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:31: 35. 832 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31: 35. 834 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31: 35. 834 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31: 35. 834 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31: 35. 835 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31: 35. 844 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\AppData\Local\Temp\testng-eclipse-1874402070\testng-customsuite.xml
+
+16:31: 35. 863 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+16:31: 36. 027 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4b3c354a: 56 ms
+16:31: 36. 038 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@55e8ec2f: 11 ms
+16:31: 36. 047 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@71984c3: 8 ms
+16:31: 36. 054 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1de5f0ef: 6 ms
+16:31: 36. 061 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@51850751: 6 ms
+16:31: 36. 061 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3ce3db41: 0 ms
+16:32: 58. 673 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+16:32: 58. 967 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+16:33: 01. 590 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest - *****starting TC004_SearchProductTest********
+16:33: 02. 234 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest - *****finished TC004_SearchProductTest********
+16:34: 22. 320 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+16:34: 22. 635 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+16:34: 25. 608 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest - *****starting TC004_SearchProductTest********
+16:34: 26. 257 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest - *****finished TC004_SearchProductTest********
+16:41: 25. 475 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+16:41: 25. 764 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+16:41: 28. 654 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest - *****starting TC004_SearchProductTest********
+16:44: 46. 387 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+16:44: 46. 683 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+16:44: 49. 885 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest - *****starting TC004_SearchProductTest********
+16:48: 30. 215 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+16:48: 30. 499 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+16:48: 33. 179 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest - *****starting TC004_SearchProductTest********
+16:48: 33. 771 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest - *****finished TC004_SearchProductTest********
+18:39: 28. 009 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+18:39: 28. 419 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+18:39: 39. 069 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest - *****starting TC004_SearchProductTest********
+18:39: 39. 671 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest - *****finished TC004_SearchProductTest********
+18:41: 06. 557 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+18:41: 06. 939 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+18:41: 10. 163 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest - *****starting TC004_SearchProductTest********
+18:41: 13. 920 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest - *****finished TC004_SearchProductTest********

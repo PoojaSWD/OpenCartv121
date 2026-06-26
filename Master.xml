@@ -17,11 +17,16 @@
 	  <parameter name="os" value="windows"></parameter>
 	  <parameter name="browser" value="chrome"></parameter>
     <classes>
-    <class name="testCases.TC001_AccountRegistrationTest"/>
-  <!-- -->  <class name="testCases.TC002_LoginTest"/>
+   				<!--<class name="testCases.TC001_AccountRegistrationTest"/>
+  				<class name="testCases.TC002_LoginTest"/>-->
+  				<!--<class name="testCases.T003_LoginDDT.java"/>
+  				<!--<class name="testCases.TC004_SearchProductTest.java"/>
+  			<!--<class name="testCases.TC005_AddToCartPage"/> -->
+  			<class name="testCases.TC006_EndToEndTest"/>
+  				<!--<class name="testCases.TC007_Checkout_validate_stock_warning_alert.java"/> -->
+  					</classes>
+  </test> 
 
-    </classes>
-  </test> <!-- Test -->
   
   
  <!-- <test  name="EdgeTest">

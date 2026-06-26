@@ -1,0 +1,60 @@
+18:42: 14. 554 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+18:46: 42. 075 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+18:47: 41. 777 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+18:47: 42. 320 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+18:47: 45. 569 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - ******Starting TC005_AddToCartPage******
+18:53: 10. 273 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+18:53: 10. 667 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+18:53: 14. 040 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - ******Starting TC005_AddToCartPage******
+18:53: 14. 637 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - selecting the product
+18:53: 15. 316 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - clear and set the qty
+18:53: 15. 452 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - clicked addtocart button
+18:55: 33. 814 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+18:55: 34. 237 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+18:55: 37. 522 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - ******Starting TC005_AddToCartPage******
+18:55: 38. 147 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - selecting the product
+18:55: 38. 786 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - clear and set the qty
+18:55: 38. 987 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - clicked addtocart button
+19:04: 04. 338 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+19:04: 04. 715 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+19:04: 08. 839 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - ******Starting TC005_AddToCartPage******
+19:04: 09. 528 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - selecting the product
+19:04: 10. 259 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - clear and set the qty
+19:04: 10. 522 [TestNG-tests-1] INFO  testCases.TC005_AddToCartPage - clicked addtocart button
+18:42: 52. 832 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+18:42: 53. 321 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+18:43: 04. 737 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Strating TC001_AccountRegistrationTest****
+18:43: 04. 955 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+18:43: 05. 409 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Register link
+18:43: 05. 413 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+18:43: 07. 688 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+18:43: 07. 736 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***finished TC001_AccountRegistrationTest***
+18:43: 10. 083 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****starting TC002_LoginTest****
+18:43: 10. 085 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Clicked on my account link
+18:43: 10. 265 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Clicked on my login link
+18:43: 10. 624 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - filled with username
+18:43: 10. 777 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - filled with password
+18:43: 10. 918 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - cliked login button
+18:43: 11. 125 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - display My account header
+18:43: 12. 055 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - logout from account
+18:43: 12. 467 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****finished TC002_LoginTest****
+15:54: 41. 225 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+15:54: 41. 696 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+15:54: 50. 437 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest - *****starting TC004_SearchProductTest********
+15:58: 21. 898 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml"
+15:58: 22. 366 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91917\eclipse-workspace\OpenCartV121\Master.xml
+
+15:58: 25. 923 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest - *****starting TC004_SearchProductTest********

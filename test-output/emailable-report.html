@@ -8,12 +8,21 @@
 <body>
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
-<tr><th colspan="8">Master suite</th></tr>
-<tr><td><a href="#t0">Master Test</a></td><td class="num">2</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">18,315</td><td>Master</td><td></td></tr>
+<tr><th colspan="8">Suite</th></tr>
+<tr><td><a href="#t0">Master Test</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">6,500</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Master suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Master Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">testCases.TC001_AccountRegistrationTest</td><td><a href="#m0">verify_account_registration</a></td><td rowspan="1">1765696062032</td><td rowspan="1">2882</td></tr><tr class="passedodd"><td rowspan="1">testCases.TC002_LoginTest</td><td><a href="#m1">verify_login</a></td><td rowspan="1">1765696067235</td><td rowspan="1">2113</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Master Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">testCases.TC006_EndToEndTest</td><td><a href="#m0">fullEndToEndFlow</a></td><td rowspan="1">1782483592478</td><td rowspan="1">2889</td></tr></tbody>
 </table>
-<h2>Master Test</h2><h3 id="m0">testCases.TC001_AccountRegistrationTest#verify_account_registration</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">testCases.TC002_LoginTest#verify_login</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Master Test</h2><h3 id="m0">testCases.TC006_EndToEndTest#fullEndToEndFlow</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: The following asserts failed:
+	Cart page heading match expected [Shopping Cart (10.00kg)] but found [false],
+	Should be on checkout page expected [true] but found [false],
+	Stock warning should NOT show for qty=1 normal checkout expected [false] but found [true]
+	at testCases.TC006_EndToEndTest.fullEndToEndFlow(TC006_EndToEndTest.java:92)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 17 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

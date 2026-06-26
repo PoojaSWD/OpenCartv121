@@ -8,13 +8,13 @@
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.T003_LoginDDT">
+      <class name="testCases.TC006_EndToEndTest">
         <methods>
-          <include name="setup"/>
-          <include name="verify_loginDDT" invocation-numbers="1"/>
           <include name="tearDown"/>
+          <include name="fullEndToEndFlow"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- testCases.T003_LoginDDT -->
+      </class> <!-- testCases.TC006_EndToEndTest -->
     </classes>
   </test> <!-- Master Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
