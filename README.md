@@ -1,7 +1,3 @@
-# Place README.md in the root of your project (same level as pom.xml), then:
-git add README.md
-git commit -m "Add project README"
-git push origin main
 
 # 🛒 TutorialsNinja — Selenium Automation Framework
 
@@ -46,30 +42,41 @@ selenium-pom-automation/
 ├── pom.xml
 │
 └── src/
-    ├── main/java/com/tutorialsninja/
+    ├── test/java
     │   │
-    │   ├── pages/                          # Page Object Model classes
+    │   ├── pageObjects/                          # Page Object Model classes
     │   │   ├── BasePage.java               # Parent page — shared driver + helpers
     │   │   ├── HomePage.java               # Search bar & navigation
     │   │   ├── SearchResultsPage.java      # Search results listing
     │   │   ├── ProductDetailPage.java      # Product detail + Add to Cart
     │   │   ├── CartPage.java               # Shopping cart + stock alert
-    │   │   └── CheckoutPage.java           # Checkout + stock warning validation
-    │   │
-    │   └── utils/                          # Utility / helper classes
-    │       ├── DriverManager.java          # ThreadLocal WebDriver lifecycle
-    │       ├── WaitUtils.java              # Explicit wait wrappers
-    │       └── ConfigReader.java           # Reads config.properties
+    │   │   └── AccountRegistrationPage.java          # Account Registration
+    │   │    └── LoginPage.java              # Login functionality
+
+
+        └── testbase/                         
+    │       ├── BaseClass.java          # @BeforeMethod / @AfterMethod hooks
     │
-    └── test/
-        ├── java/com/tutorialsninja/tests/
-        │   ├── BaseTest.java               # @BeforeMethod / @AfterMethod hooks
-        │   └── SearchToCheckoutTest.java   # All 6 test cases (TC01–TC06)
+        └── TestClasses/                       
+    │       ├── LoginTest.java          
+    │       ├── SerachProductTest.java              
+    │       └── AccountRegistrationTest.java           
+             └── AddtoCart.java
+             └── CheckOutTest.java
+             └── SearchToCheckoutTestEndtoend.java     # All 6 test cases (TC01–TC06)
+
+    │   └── utilities/                          # Utility / helper classes
+    │       ├── dataProvider.java                 #data-driven functionality
+    │       ├── ExcelUtility.java                  #Read data from Excel
+    │       └── ExtentReportManager.java           #ExtentReport with listners
+    │
+    └── test
         │
         └── resources/
             ├── config.properties           # Browser, URL, product config
-            └── testng.xml                  # TestNG suite definition
-```
+            └── docker-compose.xml                 
+            └── log4j2.xml                
+``` └── Master.xml                  # TestNG suite definition
 
 ---
 
@@ -88,8 +95,6 @@ selenium-pom-automation/
 ---
 
 ## 🔑 Key XPath Locators
-
-All XPaths are verified live against the actual site DOM.
 
 ```java
 // Search input
@@ -124,10 +129,7 @@ Make sure the following are installed on your machine:
 - [Maven 3.8+](https://maven.apache.org/download.cgi)
 - [Google Chrome](https://www.google.com/chrome/) (latest)
 - Internet connection (WebDriverManager downloads ChromeDriver automatically)
-
-> **No manual ChromeDriver download needed.** WebDriverManager handles it.
-
----
+-
 
 ## 🚀 Getting Started
 
@@ -201,14 +203,9 @@ test-output/screenshots/<TestName>_FAILED_<timestamp>.png
 ### Page Object Model (POM)
 
 Each page of the website is represented by a dedicated class. Test logic is separated from UI interaction logic.
-
 ```
 Test Class  →  Page Class  →  WebElement  →  Browser
 ```
-
-### ThreadLocal WebDriver
-
-`DriverManager` uses `ThreadLocal<WebDriver>` ensuring each test thread gets its own independent browser instance — safe for parallel execution.
 
 ### Explicit Waits
 
