@@ -184,10 +184,10 @@ chromeOptions.addArguments("--disable-dev-shm-usage");
 
 ## 📊 Test Reports
 
-After a test run, TestNG generates an HTML report at:
+After a test run, TestNG generates an Extent report at:
 
 ```
-target/surefire-reports/index.html
+target/reports/
 ```
 
 Screenshots on test failure are saved automatically to:
